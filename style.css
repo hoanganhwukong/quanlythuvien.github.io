@@ -10,7 +10,7 @@ body, html {
 }
 
 .background {
-    background-image: url('img/thu-viennn.jpg'); /* Thay 'your-background-image.jpg' bằng đường dẫn đến ảnh nền của bạn */
+    background-image: url('thu-viennn.jpg'); /* Thay 'your-background-image.jpg' bằng đường dẫn đến ảnh nền của bạn */
     background-size: cover;
     background-position: center;
     height: 100%;
